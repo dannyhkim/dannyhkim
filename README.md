@@ -6,6 +6,6 @@
 - :money_with_wings: I’m currently learning how to invest 
 - 💬 Ask me about the NBA :basketball:, Football :soccer:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dannyhkim&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dannyhkim)](https://github.com/anuraghazra/github-readme-stats)
 
 
