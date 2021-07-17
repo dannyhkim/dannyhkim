@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:books: Currently studying Systems Design Engineering at the University of Waterloo. 
+:books: Currently studying **Systems Design Engineering** at the **University of Waterloo**. 
 
 - 🔭 I’m currently learning more about infrastructure and data 
 - :money_with_wings: I’m currently learning how to invest 
