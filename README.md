@@ -2,7 +2,7 @@
 
 :books: I'm currently studying **Systems Design Engineering** at the **University of Waterloo**. 
 
-- Recently finished an internship at [Vidyard](https://vidyard.com)
+- Incoming Software Engineering Intern @[Bolt](https://bolt.com)
 - 🔭 Currently learning more about infrastructure and data 
 - :money_with_wings: Currently learning how to invest 
 - 💬 Ask me about the NBA :basketball:, Football :soccer:
