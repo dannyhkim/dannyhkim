@@ -3,8 +3,7 @@
 :books: I'm currently studying **Systems Design Engineering** at the **University of Waterloo**. 
 
 - Software Engineering Intern [@Bolt](https://bolt.com)
-- 🔭 Currently learning more about infrastructure and data 
-- :money_with_wings: Currently learning how to invest 
+- 🔭 Currently learning more about infrastructure
 - 💬 Ask me about the NBA :basketball:, Football :soccer:
 - Reach me at my 🟦 [LinkedIn](https://www.linkedin.com/in/danielkim2000/)
 
