@@ -3,7 +3,6 @@
 :books: I'm currently studying **Systems Design Engineering** at the **University of Waterloo**. 
 
 - Software Engineering Intern [@Bolt](https://bolt.com)
-- 💬 Ask me about the NBA :basketball:, Football :soccer:
 - Reach me at my 🟦 [LinkedIn](https://www.linkedin.com/in/danielkim2000/)
 
 ### Github Stats 
